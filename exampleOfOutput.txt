@@ -1,0 +1,295 @@
+   
+https://twitter.com/sannabh
+Calais Request ID: 4337f089-697a-6431-146f-40c634f3be10
+External ID: https://twitter.com/sannabh
+Title:  
+Language: English
+Extractions: 
+	6 entities
+	1 topics
+	1 language
+--
+Technology_Internet
+--
+IndustryTerm: designed systems (0.11)
+Organization: MIT (0.28)
+Position: butler (0.35)
+IndustryTerm: web design (0.24)
+Technology: HTTP (0.65)
+Position: Captain (0.21)
+--
+   
+http://www.gardenista.com/posts/closet-cleanout-the-only-10-pieces-of-clothing-you-need-organize
+Calais Request ID: dace4c22-bb12-2d1e-146f-40c84254037b
+External ID: http://www.gardenista.com/posts/closet-cleanout-the-only-10-pieces-of-clothing-you-need-organize
+Title:  
+Language: English
+Extractions: 
+	10 entities
+	1 topics
+	1 language
+--
+Hospitality_Recreation
+--
+Company: Ralph Lauren (0.19)
+Facility: Container Store (0.15)
+Person: Heidi Swanson (0.06)
+Holiday: New Year's Day (0.30)
+Position: Style Counsel (0.06)
+Person: Michelle Slatalla (0.61)
+Person: Zoe Quittner (0.29)
+Organization: Salvation Army (0.32)
+ProvinceOrState: New Brunswick (0.24)
+Currency: USD (0.15)
+--
+   
+http://www.dianaantohe.com/
+Calais Request ID: e3efdb42-0fe5-92d5-146f-40c92b64037b
+External ID: http://www.dianaantohe.com/
+Title:  
+Language: English
+Extractions: 
+	4 entities
+	1 language
+	3 relations
+--
+--
+URL: http://www.facebook.com/pages/Diana-Antohe/246794805332320?fref=ts (0.50)
+URL: http://linkedin.com (0.50)
+URL: http://twitter.com/4ormat (0.50)
+Person: DIANA ANTOHE (0.50)
+--
+ContactDetails
+ContactDetails
+ContactDetails
+   
+http://www.apartmenttherapy.com/beyond-the-bachelorette-pad-bl-136827
+Calais Request ID: 90b08d6e-b4f1-bd18-146f-40c243b4ae6a
+External ID: http://www.apartmenttherapy.com/beyond-the-bachelorette-pad-bl-136827
+Title:  
+Language: English
+Extractions: 
+	2 entities
+	1 topics
+	1 language
+--
+Hospitality_Recreation
+--
+City: MILANO (0.19)
+IndustryTerm: brown paint (0.22)
+--
+   
+https://medium.com/matter/miss-american-dream-31c823ad0e5a
+Calais Request ID: 3bbbc2dd-0c2e-f2ec-146f-402a19c5897a
+External ID: https://medium.com/matter/miss-american-dream-31c823ad0e5a
+Title:  
+Language: English
+Extractions: 
+	24 entities
+	4 relations
+	1 language
+--
+--
+Holiday: Christmas (0.06)
+Person: J. Kim Britney Spears (0.31)
+Position: wardrobe assistant (0.05)
+Product: iPads (0.23)
+Company: Getty Images (0.30)
+Person: Britney Spears (0.83)
+Person: Gordon Ramsay (0.42)
+Position: assistant (0.30)
+Position: public relations manager (0.25)
+IndustryTerm: public relations (0.25)
+Currency: USD (0.07)
+Position: waitress (0.07)
+Person: Denise Truscello (0.32)
+Person: Sam Champion (0.30)
+Position: waiter (0.25)
+Country: United Kingdom (0.10)
+Person: Geoff J. Kim (0.31)
+Company: YouTube (0.30)
+Position: model (0.07)
+Person: Courtney Fitzgerald (0.49)
+Person: Shania Twain (0.08)
+City: Las Vegas (0.52)
+Position: Queen (0.10)
+IndustryTerm: classic car collection (0.26)
+--
+Quotation
+PersonCareer
+PersonLocation
+Quotation
+	quote:isn’t her takes over when she’s on stage.
+   
+http://www.culturemachine.net/index.php/cm/issue/view/24
+Calais Request ID: 863e4311-c0cf-28f5-146f-40cc53c1e00c
+External ID: http://www.culturemachine.net/index.php/cm/issue/view/24
+Title:  
+Language: English
+Extractions: 
+	1 entities
+	1 language
+--
+--
+Person: Patrick Crogan (0.71)
+--
+   
+http://canopycanopycanopy.com/issues/14/contents/the_venus_problem
+Calais Request ID: dbb1dbb9-1833-4895-146f-40caacd6ddbb
+External ID: http://canopycanopycanopy.com/issues/14/contents/the_venus_problem
+Title:  
+Language: InputTextTooShort
+Extractions: 
+	1 entities
+	1 language
+--
+--
+Person: Lisa Robertson (0.58)
+--
+
+http://www.refinery29.com/best-coffees
+Calais Request ID: 673fbe79-bef9-469b-146f-413f18b6ddbb
+External ID: http://www.refinery29.com/best-coffees
+Title:  
+Language: English
+Extractions: 
+	1 entities
+	2 topics
+	1 language
+--
+Human Interest
+Hospitality_Recreation
+--
+IndustryTerm: food (0.39)
+--
+   
+http://stackoverflow.com/questions/3215830/extract-meta-keywords-from-webpage
+Calais Request ID: 18a7a980-ffad-99ea-146f-413f4876ddbb
+External ID: http://stackoverflow.com/questions/3215830/extract-meta-keywords-from-webpage
+Title:  
+Language: English
+Extractions: 
+	7 entities
+	1 topics
+	1 language
+--
+Technology_Internet
+--
+ProgrammingLanguage: Python (0.35)
+OperatingSystem: Windows XP (0.33)
+Company: Facebook (0.13)
+Technology: HTML (0.18)
+IndustryTerm: web page (0.35)
+Person: Meta Keywords (0.35)
+Company: Google (0.14)
+--
+
+http://www.buzzfeed.com/melissaharrison/vegetable-noodle-recipes
+Calais Request ID: 856a3b5e-c900-141f-146f-418976033492
+External ID: http://www.buzzfeed.com/melissaharrison/vegetable-noodle-recipes
+Title:  
+Language: English
+Extractions: 
+	3 entities
+	1 topics
+	1 language
+--
+Hospitality_Recreation
+--
+Region: Mediterranean (0.10)
+Person: Ginger Dressing (0.78)
+Company: BuzzFeed (0.36)
+--
+   
+http://www.buzzfeed.com/food
+Calais Request ID: 6c09f611-d644-02c9-146f-4188ba14037b
+External ID: http://www.buzzfeed.com/food
+Title:  
+Language: English
+Extractions: 
+	11 entities
+	2 topics
+	2 relations
+	1 language
+--
+Hospitality_Recreation
+Human Interest
+--
+Position: Associate Editor (0.12)
+Person: Emily Fleischaker (0.12)
+ProvinceOrState: Mississippi (0.25)
+Holiday: Ramadan (0.15)
+Person: Deena Shanker (0.12)
+Person: Christine Byrne (0.12)
+Position: Editor (0.14)
+Person: Rachel Sanders (0.12)
+Position: Chef (0.25)
+Position: Assistant Editor (0.12)
+Company: BuzzFeed (0.60)
+--
+PersonCareer
+PersonCareer
+   
+http://www.buzzfeed.com/candacelowry/bakeries-around-the-world-you-should-visit-before-you-die
+Calais Request ID: 812377c3-c1d9-fb4c-146f-418a62d1e00c
+External ID: http://www.buzzfeed.com/candacelowry/bakeries-around-the-world-you-should-visit-before-you-die
+Title:  
+Language: English
+Extractions: 
+	45 entities
+	1 topics
+	1 language
+	4 relations
+--
+Hospitality_Recreation
+--
+City: Berlin (0.12)
+Holiday: Christmas (0.29)
+Facility: Breads Bakery (0.07)
+Position: chef (0.06)
+City: Zurich (0.16)
+IndustryTerm: gas station (0.26)
+City: Sydney (0.21)
+Company: BuzzFeed (0.31)
+Person: Tai Cheong (0.17)
+Facility: San Francisco bakery (0.13)
+Person: Hafiz Mustafa (0.11)
+Person: Uri Scheft (0.06)
+Facility: Cafe Buchwald (0.12)
+City: Lima (0.08)
+City: Nykvarn (0.05)
+ProvinceOrState: Texas (0.27)
+City: Istanbul (0.11)
+Country: Sweden (0.05)
+Country: Peru (0.08)
+City: Milan (0.25)
+City: New York City (0.57)
+City: Vienna (0.30)
+Continent: Europe (0.07)
+City: San Francisco (0.14)
+City: Tokyo (0.56)
+City: Boston (0.31)
+Facility: Tai Cheong Bakery (0.18)
+City: Toronto (0.24)
+City: Paris (0.45)
+City: Seattle (0.09)
+City: Rio de Janeiro (0.10)
+Person: Sadaharu Aoki (0.31)
+City: Jerusalem (0.19)
+Facility: Union Square (0.06)
+Facility: Cafe Savoy (0.07)
+City: London (0.22)
+Facility: Dominique Ansel Bakery (0.31)
+Person: Henri Charpentier (0.04)
+Country: Portugal (0.14)
+City: Prague (0.07)
+Facility: Bourke Street Bakery (0.21)
+Person: Henri Charpentie (0.05)
+Facility: Macrina Bakery (0.09)
+Position: Pastry chef (0.04)
+City: Copenhagen (0.30)
+--
+PersonLocation
+PersonLocation
+PersonCareer
+PersonCareer

@@ -1,12 +1,13 @@
 import re
-# from urllib import urlopen
 from calais import Calais #https://code.google.com/p/python-calais/
 
 CALAIS_API_KEY = "an5duh4ktc5twbfysaakjhxs"
 
+#TO DO:
 #need to espace any question marks from URLs
 
 testUrls = [
+"http://www.buzzfeed.com/melissaharrison/vegetable-noodle-recipes?bfpi&crlt.pid=camp.EoF7CPz5C0BN",
 "https://twitter.com/sannabh", 
 "http://www.gardenista.com/posts/closet-cleanout-the-only-10-pieces-of-clothing-you-need-organize", 
 "http://www.dianaantohe.com/",
@@ -23,15 +24,19 @@ testUrls = [
 
 for url in testUrls:
 	print "   "
+	print "   "
 	print url
 	calais = Calais(CALAIS_API_KEY, submitter="historySnooper test")
-	result = calais.analyze_url(url)
-	result.print_summary()
-	print "--"
-	result.print_topics()
-	print "--"
-	result.print_entities()
-	print "--"
-	result.print_relations()
-	# f = urlopen( "http://www.w3schools.com/XPath/xpath_syntax.asp" ).read()
-	# print re.search( "<meta name=\"Keywords\".*?content=\"([^\"]*)\"", f ).group( 1 )
+	try:
+		result = calais.analyze_url(url)
+		result.print_summary()
+		print "--"
+		result.print_topics()
+		print "--"
+		result.print_entities()
+		print "--"
+		result.print_relations()
+	except ValueError:
+		print "This URL is fucked up. You need to deal with this in the future: %s" % (url)
+	except:
+		print "Unexpected error: ", sys.exc_info()[0]

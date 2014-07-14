@@ -1,0 +1,32 @@
+http://www.buzzfeed.com/melissaharrison/vegetable-noodle-recipes?bfpi&crlt.pid=camp.EoF7CPz5C0BN
+Traceback (most recent call last):
+  File "keywords.py", line 24, in <module>
+    result = calais.analyze_url(url)
+  File "/Users/savannahniles/Github/HistorySnooper/calais.py", line 86, in analyze_url
+    return self.analyze(html, content_type="TEXT/HTML", external_id=url)
+  File "/Users/savannahniles/Github/HistorySnooper/calais.py", line 81, in analyze
+    return CalaisResponse(self.rest_POST(content))
+  File "/Users/savannahniles/Github/HistorySnooper/calais.py", line 119, in __init__
+    raise ValueError(raw_result)
+ValueError: <Error Method="ProcessText" calaisRequestID="6f253201-e504-44b0-146f-40cb5214359a" CreationDate="2014-07-01 17:30:12" CalaisVersion="R4.3_7.1.1103.5"><Exception>java.lang.NullPointerException
+	at com.clearforest.calais.beans.UserSettings.MetataggingProperties(UserSettings.java:150)
+	at com.clearforest.calais.logic.CalaisLogic.doProcessText(CalaisLogic.java:1150)
+	at com.clearforest.calais.logic.CalaisLogic.doProcessText(CalaisLogic.java:886)
+	at com.clearforest.calais.logic.CalaisLogic.ProcessText(CalaisLogic.java:689)
+	at com.clearforest.calais.servlets.CalaisRESTservlet.processRequest(CalaisRESTservlet.java:73)
+	at com.clearforest.calais.servlets.CalaisRESTservlet.doPost(CalaisRESTservlet.java:98)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:849)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:454)
+	at java.lang.Thread.run(Thread.java:619)
+</Exception></Error>
